@@ -1,0 +1,6 @@
+{
+  "name": "Tactical Hex Strategy",
+  "description": "A highly customizable local multiplayer turn-based strategy game featuring hex grids, manual map editing, and local wifi networking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
